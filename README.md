@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # immoc-cli-dev-zed-server
 
 
@@ -31,3 +32,7 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+=======
+# imooc-cli-server
+imooc-cli-server
+>>>>>>> 3714f3bb972a74c00c91b64991fc0b78975163f6
